@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 You can use the website to generate badges: https://shields.io/
 -->
 
+<!-- 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hyafiardi/)
+-->
 
 <!-- Talking about you -->
 **Brief of Me:**
