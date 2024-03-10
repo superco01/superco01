@@ -30,6 +30,7 @@ You can use the website to generate badges: https://shields.io/
 
 - My current profession is software engineer focussing on the backend side.
 - I’m currently tinkering with __Large Language Model (LLM)__.
+- Highly passionate about distributed systems. 
 - I’m looking to collaborate with anyone on anything.
 
 ---
