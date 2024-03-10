@@ -1,4 +1,4 @@
-### Hi there, I'm Yafi Ardi 👋
+### Hi there, I'm Yafi 👋
 
 
 
