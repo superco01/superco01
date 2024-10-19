@@ -26,9 +26,9 @@ You can use the website to generate badges: https://shields.io/
 **Brief of Me:**
 
 - My current profession is software engineer focussing on the backend side.
-- I’m currently tinkering with __Large Language Model (LLM)__.
+- I’m currently tinkering with __Generative AI__.
 - Highly passionate about distributed systems. 
-- I’m looking to collaborate with anyone on anything.
+- I’m looking to collaborate with anyone.
 
 ---
 
