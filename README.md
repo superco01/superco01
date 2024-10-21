@@ -1,28 +1,5 @@
 ### Hi there, I'm Yafi 👋
-<!--
-**superco01/superco01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-<!-- 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hyafiardi/)
--->
-
-<!-- Talking about you -->
 **Brief of Me:**
 
 - My current profession is software engineer focussing on the backend side.
